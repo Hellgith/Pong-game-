@@ -4,9 +4,9 @@ const ctx = canvas.getContext("2d");
 // Game constants
 const PADDLE_WIDTH = 10;
 const PADDLE_HEIGHT = 80;
-const BALL_RADIUS = 10;
-const PADDLE_SPEED = 5;
-const AI_SPEED = 3;
+const BALL_RADIUS = 50;
+const PADDLE_SPEED = 7;
+const AI_SPEED = 8;
 
 // Game objects
 let player = {
